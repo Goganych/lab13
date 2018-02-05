@@ -1,5 +1,7 @@
-[![Build Status](https://travis-ci.org/Goganych/lab13.svg?branch=master)](https://travis-ci.org/Goganych/lab13)
 # lab13
+
+[![Build Status](https://travis-ci.org/Goganych/lab13.svg?branch=master)](https://travis-ci.org/Goganych/lab13)
+
 # Куликов Игорь ИУ8-33
 
 yamllint config.yaml
